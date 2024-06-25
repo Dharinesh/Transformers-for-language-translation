@@ -113,4 +113,4 @@ The trained model is available on the Hugging Face Model Hub. You can access and
 
 ## License
 
-- This is using GNU General License ... feel free to use the resources
+- This is using GNU General License ... feel free to use the resources. [License]
