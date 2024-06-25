@@ -92,13 +92,20 @@ The trained model is available on the Hugging Face Model Hub. You can access and
 
 ## Results
 
-[Include some example translations or performance metrics]
+- Training progression :
+  ![image](https://github.com/Dharinesh/Transformers-for-language-translation/assets/108059896/f9e4b778-1a27-44db-9a12-91b52a01c4c3)
+
+- Some Results:
+  ![image](https://github.com/Dharinesh/Transformers-for-language-translation/assets/108059896/3624e42e-6623-4b65-ab91-f74743f01126)
+  ![image](https://github.com/Dharinesh/Transformers-for-language-translation/assets/108059896/d228c171-65a1-4f0d-a286-8954aca11918)
+  ![image](https://github.com/Dharinesh/Transformers-for-language-translation/assets/108059896/abe35cc2-b0ca-46f8-a7bd-75bd83517007)
+  ![image](https://github.com/Dharinesh/Transformers-for-language-translation/assets/108059896/3bc9e676-fe5e-471d-8f37-a553cbebc2c2)
+
 
 ## References
 
 - Vaswani, A., et al. (2017). "Attention Is All You Need". In Advances in Neural Information Processing Systems (NIPS 2017).
-- [Any other references you used]
 
 ## License
 
-[Include your chosen license information]
+- This is using GNU General License ... feel free to use the resources
