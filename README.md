@@ -93,13 +93,18 @@ The trained model is available on the Hugging Face Model Hub. You can access and
 ## Results
 
 - Training progression :
-  ![image](https://github.com/Dharinesh/Transformers-for-language-translation/assets/108059896/f9e4b778-1a27-44db-9a12-91b52a01c4c3)
+
+![image](https://github.com/Dharinesh/Transformers-for-language-translation/assets/108059896/f9e4b778-1a27-44db-9a12-91b52a01c4c3)
 
 - Some Results:
-  ![image](https://github.com/Dharinesh/Transformers-for-language-translation/assets/108059896/3624e42e-6623-4b65-ab91-f74743f01126)
-  ![image](https://github.com/Dharinesh/Transformers-for-language-translation/assets/108059896/d228c171-65a1-4f0d-a286-8954aca11918)
-  ![image](https://github.com/Dharinesh/Transformers-for-language-translation/assets/108059896/abe35cc2-b0ca-46f8-a7bd-75bd83517007)
-  ![image](https://github.com/Dharinesh/Transformers-for-language-translation/assets/108059896/3bc9e676-fe5e-471d-8f37-a553cbebc2c2)
+  
+![image](https://github.com/Dharinesh/Transformers-for-language-translation/assets/108059896/3624e42e-6623-4b65-ab91-f74743f01126)
+
+![image](https://github.com/Dharinesh/Transformers-for-language-translation/assets/108059896/d228c171-65a1-4f0d-a286-8954aca11918)
+
+![image](https://github.com/Dharinesh/Transformers-for-language-translation/assets/108059896/abe35cc2-b0ca-46f8-a7bd-75bd83517007)
+
+![image](https://github.com/Dharinesh/Transformers-for-language-translation/assets/108059896/3bc9e676-fe5e-471d-8f37-a553cbebc2c2)
 
 
 ## References
