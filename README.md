@@ -2,7 +2,7 @@
 
 ![image](https://github.com/Dharinesh/Transformers-for-language-translation/assets/108059896/e92e7202-b14b-447e-b519-c9de1881222c)
 
-## Link for colab code: 
+## Links for colab notebooks: 
 
 [English-Hindi-colab-code](https://colab.research.google.com/drive/1o4b9duwyAyEkb9Tr7D-8jx1bO7GwcWn4?usp=sharing)
 
